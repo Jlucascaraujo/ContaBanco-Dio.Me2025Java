@@ -18,7 +18,7 @@ General Kenobi
 Digite o Saldo: 
 999,00
 Olá General Kenobi, obrigado por criar uma conta em nosso banco, sua agência é , conta 1 e seu saldo 999.0 já está disponível para saque.
-
 Process finished with exit code 0
+
 Mas como pode ser visto, o terminal pulou e nao esperou a inicialização do valor Agência. Tem como voce me auxiliar sem me mostrar a solução em codigo?
 >>> PROMPT END
